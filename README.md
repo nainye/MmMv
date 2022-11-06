@@ -4,7 +4,7 @@ Deep MultiModal MRI Fusion Model for Brain Tumor Grading
 <br>
 
 ## 1. Introduction
-Glioma is a type of brain tumor that occurs in glial cells and is classified into two types: high grade glioma with a poor prognosis and low grade glioma.
+Glioma is a type of brain tumor that occurs in glial cells and is classified into two types: high grade glioma(HGG) with a poor prognosis and low grade glioma(LGG).
 
 <br/>
 
